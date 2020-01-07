@@ -9,7 +9,8 @@ verify_ssl = true
 jupyter = "*"
 pandas = "*"
 bokeh = "*"
-matplotlib = "*"
+matplotlib = "~=2.2.4"
+jsanimation = "*"
 
 [requires]
 python_version = "3.6"
